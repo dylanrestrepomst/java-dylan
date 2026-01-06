@@ -1,5 +1,12 @@
-@import "bootstrap/dist/css/bootstrap.min.css";
+
 
 body{
     background: white;
+}
+#bloque{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 100px;
+
 }
