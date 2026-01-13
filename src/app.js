@@ -1,7 +1,7 @@
 let who = ['El perro', 'Mi abuela', 'Mi padre', 'Mi pajaro'];
-let action = ['Comer', 'Escondio', 'Meo', 'Romper'];
+let action = ['comer', 'escondio', 'meo', 'Romper'];
 let what = ['Mis deberes', 'Mi telefono', 'El coche', 'Las llaves'];
-let when = ['Antes de clase', 'Cuando dormia', 'Mientras hacia ejercicio', 'Durante la comida', 'while I was praying'];
+let when = ['Antes de clase', 'Cuando dormia', 'Mientras hacia ejercicio', 'Durante la comida', 'mientras rezaba'];
 
 function excuseGenerator(who, action, what,when){
     let numQuien = Math.floor(Math.random() * who.length);
